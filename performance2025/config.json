@@ -1,0 +1,12 @@
+{
+    "output_dir": "D:\\system_performance_record",
+    "record_interval": 1,
+    "monitored_processes": [
+        "chrome.exe"
+    ],
+    "monitor_by_pid": {},
+    "ui": {
+        "window_width": 1200,
+        "window_height": 800
+    }
+}
